@@ -31,7 +31,13 @@ May 17, 2024 (Friday):
 
 Throughout the week, you focused on familiarizing yourself with various domains such as oil and gas, SQL, and Python, while also participating in orientation activities and getting acquainted with the LTTS premises and resources.
 
+
+
+
 Week - 2:
+
+
+
 
 May 20, 2024 (Monday):
 
@@ -70,8 +76,14 @@ May 24, 2024 (Friday):
 
 During this week, you focused extensively on SQL and Python, covering various aspects of SQL queries, functions, and data manipulation, as well as fundamental Python concepts and coding practices.
 
+
+
+
 Week - 3:
-\
+
+
+
+
 May 27, 2024 (Monday):
 
 10:00-12:00: Learned about SQL topics including joins and schema.
@@ -109,7 +121,13 @@ May 31, 2024 (Friday):
 
 Throughout this week, you balanced learning SQL concepts such as joins, schema, and database functions with Python topics including sets, tuples, lists, Lambda functions, and general problem-solving. Your sessions were supplemented with online practice and practical applications like installing SQL on your system and participating in coding challenges.
 
+
+
+
 Week- 4:
+
+
+
 
 June 3, 2024 (Monday):
 
@@ -145,7 +163,13 @@ June 7, 2024 (Friday):
 
 Throughout this period, we covered a range of Python topics including dictionaries, modules, and TKinter, alongside SQL sessions focusing on database relationships, joins, and group by operations. Your practical sessions involved problem-solving and working on a TKinter-based project.
 
+
+
+
 Week - 5:
+
+
+
 
 June 10, 2024 (Monday):
 
