@@ -1,35 +1,33 @@
 # Summer-Internship-2024
 Week - 1:
 
-May 14, 2024 (Tuesday):
+May 27, 2024 (Monday):
 
-10:00-12:00: Studied oil and gas domain topics.
-12:00-1:30: Break.
-1:30-3:30: Explored various products developed by LTTS.
-3:30-4:00: Studied SQL materials.
+Learned about SQL joins and schema.
+Practiced SQL schema topics online.
+Continued practicing SQL joins online and installed SQL Express.
+May 28, 2024 (Tuesday):
 
-May 15, 2024 (Wednesday):
+Learned basic Python topics.
+Due to a cancelled SQL session, focused on additional SQL topics.
+Practiced basic Python topics online.
+May 29, 2024 (Wednesday):
 
-10:00-12:00: Delved deeper into SQL usage.
-12:00-1:30: Break.
-1:30-3:30: Met with Viral sir to discuss technology strengths.
-3:30-4:00: Practiced SQL topics online.
+Learned about sets and tuples in Python.
+Practiced problems related to sets, tuples, and lists.
+May 30, 2024 (Thursday):
 
-May 16, 2024 (Thursday):
+Learned about Lambda functions in Python.
+Attended an SQL session focusing on database functions.
+Practiced various Python topics.
+May 31, 2024 (Friday):
 
-10:00-12:00: Studied Python materials.
-12:00-1:30: Break.
-1:30-3:30: Continued studying Python.
-3:30-4:00: Solved Python-related questions on W3Schools.
+Solved practice problems on GeeksForGeeks using Python.
+Solved problems from a problem set on Codeforces using Python.
+Had a Python session, continuing to practice various Python topics.
+Throughout this period, you balanced learning SQL concepts, including joins, schema, and database functions, with Python topics such as sets, tuples, lists, Lambda functions, and general problem-solving. Your sessions often included online practice to reinforce your understanding and skills in both SQL and Python programming.
 
-May 17, 2024 (Friday):
 
-10:00-12:00: Arranged seating and requested PC setup.
-12:00-1:30: Break.
-1:30-3:30: Reviewed Python materials.
-3:30-4:00: Watched videos on Python.
-
-Throughout the week, you focused on familiarizing yourself with various domains such as oil and gas, SQL, and Python, while also participating in orientation activities and getting acquainted with the LTTS premises and resources.
 
 
 
