@@ -194,7 +194,7 @@ June 13, 2024 (Thursday):
 
 Entire day: Completed all the exit procedures.
 
-During this period, you focused intensively on your Tkinter project, incorporating feedback and making necessary updates. The week concluded with completing exit procedures, marking the end of your involvement or tenure in the project or organization.
+During this period, we focused intensively on your Tkinter project, incorporating feedback and making necessary updates. The week concluded with completing exit procedures, marking the end of our involvement and tenure in the organization.
 
 
 
